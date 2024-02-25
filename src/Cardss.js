@@ -7,7 +7,7 @@ import dataa from './videoData.json';
 function Cardss({videoId}) {
   const [display,setDisplay] = React.useState(false);
     if(display){
-        return <Navigate to={`./playing/${videoId}`} />
+        return <Navigate to={`https://vathsavvarma.github.io/moiveweb/playing/${videoId}`} />
     }
     // console.log(dataa.info[videoId-1]);
     const store = dataa.info[videoId-1];

@@ -9,7 +9,7 @@ function VideoPlayer(){
     const { videoId } = useParams();
     // console.log(videoId);
     if(!goback){
-        return <Navigate to='/'/>
+        return <Navigate to='https://vathsavvarma.github.io/moiveweb/'/>
     }
     let idx = Dataa.info[videoId-1];
     // console.log(idx);
@@ -38,7 +38,6 @@ function VideoPlayer(){
             >
                 Click Me To Go Back
             </button>
-            <script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
         </div>
     );
 }

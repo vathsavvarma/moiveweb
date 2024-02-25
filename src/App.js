@@ -8,8 +8,8 @@ function App() {
     <div>
       <Router>
         <Routes>
-          <Route path='/' element={<Home />}/>
-          <Route path='/playing/:videoId' element={<VideoPlayer />}/>
+          <Route path='https://vathsavvarma.github.io/moiveweb/' element={<Home />}/>
+          <Route path='https://vathsavvarma.github.io/moiveweb/playing/:videoId' element={<VideoPlayer />}/>
         </Routes>
       </Router>
     </div>
