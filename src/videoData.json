@@ -1,0 +1,22 @@
+{
+    "info":[
+        {
+            "id":1,
+            "src":"https://d46j76fszlqi8.cloudfront.net/nani.mp4",
+            "pic":"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202212/fjn-yy5amaem1ko-three_four.jpg?VersionId=pfOoieLX92R2ysAr.tbwFT5AftB_qdm4",
+            "title":"Saripodha Sanivaram"
+        },
+        {
+            "id":2,
+            "src":"https://www.youtube.com/embed/LCI2OZiV5UQ",
+            "pic":"https://static.toiimg.com/thumb/msid-95658478,width-400,resizemode-4/95658478.jpg",
+            "title":"Hanu-Man"
+        },
+        {
+            "id":3,
+            "src":"https://www.youtube.com/embed/ePOglweqy7o",
+            "pic":"https://m.media-amazon.com/images/M/MV5BMjQxY2UyZGUtYjUzYS00NzIwLWJlZWEtMDAwOWRiY2Q1ZmUyXkEyXkFqcGdeQXVyMTIwOTIwMzI5._V1_.jpg",
+            "title":"They call him OG"
+        }
+    ]
+}
